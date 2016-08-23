@@ -1,0 +1,14 @@
+
+
+int main()
+{
+	int a;
+	int i;
+	
+	while(i<100)
+	{
+		a=a+i;
+		i=i+1;
+	}
+	
+}
